@@ -1,8 +1,8 @@
 #include<stdio.h>
 /**
-* Start of prgram
+* main - Entry point
 *
-* Just printing so it will return a zero
+* Return: Always 0 (Success)
 */
 int main(void)
 {

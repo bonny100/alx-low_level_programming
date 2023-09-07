@@ -1,8 +1,8 @@
 #include<stdio.h>
 /**
-* Start of the Program
+* main - Entry point
 *
-* It will display sizes and therefore it will return a zero
+* Return: Always 0 (Success)
 */
 int main(void)
 {
@@ -13,4 +13,3 @@ int main(void)
 	printf("Size of a float: %d byte(s)\n", sizeof(float));
 	return (0);
 }
-
